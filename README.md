@@ -4,7 +4,7 @@
 This Power BI project aims to analyze sales data to identify trends, top-selling products, and revenue metrics to aid in business decision-making.
 
 ## Description
-The Sales Data Analysis project involves delving into a comprehensive sales dataset to derive actionable insights. It encompasses exploring sales trends over time, pinpointing the best-selling products, and calculating key revenue metrics such as total sales and profit margins. The project is a testament to the ability to manipulate large datasets and make data-driven sales strategy recommendations.
+The Sales Data Analysis project involves delving into a comprehensive sales dataset to derive actionable insights. It encompasses exploring stock availability, pinpointing the best-selling products, and calculating key revenue metrics such as total sales and profit margins. The project is a testament to the ability to manipulate large datasets and make data-driven sales strategy recommendations.
 
 ## Dataset
 The dataset includes the following columns:
